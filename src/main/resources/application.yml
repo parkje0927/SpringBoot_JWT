@@ -27,5 +27,6 @@ logging:
 
 jwt:
   header: Authorization
+#  echo 'jjung-tech-spring-boot-jwt-tutorial-secret-jjung-tech-spring-boot-jwt-tutorial-secret'|base64
   secret: amp1bmctdGVjaC1zcHJpbmctYm9vdC1qd3QtdHV0b3JpYWwtc2VjcmV0LWpqdW5nLXRlY2gtc3ByaW5nLWJvb3Qtand0LXR1dG9yaWFsLXNlY3JldAo=
   token-validity-in-seconds: 86400
